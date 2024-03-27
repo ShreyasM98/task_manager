@@ -33,3 +33,11 @@
 
   <p> A component can delegate certain tasks to services, such as fetching data from the server, validating user input, or logging directly to the console.</p>
 
+<h2>Angular CLI</h2>
+<p>Standard tooling for Angular Development</p>
+<ul>
+   <li>Command line interface for creating Angular Apps</li>
+   <li>Dev server and easy production build</li>
+   <li>Commands to generate components, services, etc</li>
+</ul>
+
